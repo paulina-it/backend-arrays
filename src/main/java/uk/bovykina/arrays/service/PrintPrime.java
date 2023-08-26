@@ -1,5 +1,4 @@
 package uk.bovykina.arrays.service;
-import java.util.Scanner;
 public class PrintPrime {
     public static void printPrime(int[] arr) {
         int count = 0;
